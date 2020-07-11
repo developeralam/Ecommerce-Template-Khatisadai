@@ -1,0 +1,245 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+/*Typography*/
+.box-shadow{
+
+}
+
+
+/*Header Top Style*/
+.header-top a{
+	font-size:16px;
+	color:#000;
+}
+.header-top .dropdown-menu{
+	left:-75px;
+}
+/*Logo Search Section Style*/
+.logo-search-section input{
+	padding:25px 20px;
+}
+.logo-search-section button{
+	position: absolute;
+    top: 0;
+    right: 15px;
+    border-radius: 0px 35px 35px 0px;
+    padding: 13px 35px;
+}
+.logo-search-section .col-2 a{
+	margin-right:20px;
+}
+.logo-search-section .col-2 i{
+	font-size: 35px;
+    vertical-align: -19px;
+}
+/*Category Menu Section Style*/
+.category-menu-section .main-menu li a{
+	font-size:16px;
+	color:#000;
+	padding:10px 20px;
+}
+.category-menu-section .submenu-title{
+	font-size:16px;
+	font-weight: bold;
+}
+.category-menu-section .show{
+	width:800px!important;
+	height: 100%;
+	top:188px!important;
+	left:270px!important;
+	padding:15px;
+}
+.category-list a{
+	display: block;
+	color:#777777;
+	font-weight: lighter;
+	text-decoration: none;
+	padding:7px 2px;
+	font-size:14px;
+}
+.category-list i{
+	padding-right:10px;
+} 
+.featured img{
+	padding-top:10px;
+}
+.featured h2{
+	font-weight: bold;
+}
+.featured p{
+	font-size:14px;
+}
+
+/*deal-of-the-week-section*/
+.item .off span{
+	top:15px;
+	left:0;
+}
+.item p{
+	margin-bottom:4px!important;
+}
+.item span{
+	color:green;
+}
+
+/*Latest Best Sele Section*/
+.latest-best-sale-section .off span{
+	top: 14px;
+    left: 0;
+}
+.latest-best-sale-section .nav-link{
+	font-size:18px;
+	color:#000;
+}
+.latest-best-sale-section p{
+	padding-top:2px;
+	font-size:13px;
+}
+
+
+/*Recommendation Section*/
+.recommendation-section p{
+	font-size:13px;
+}
+.recommendation-section .favourite{
+	margin-top: 2px;
+    font-size: 19px;
+}
+.recommendation-section .selected{
+	color:green!important;
+}
+.recommendation-section .cart{
+	font-size:13px;
+	padding:4px 7px;
+}
+.recommendation-section .active-favourite{
+	background-color:green!important;
+}
+
+/*Featured Section*/
+.featured-section .nav-link{
+	font-size:16px;
+	color:#000;
+	padding:5px 12px;
+}
+.featured-section .name{
+	font-size:14px;
+	padding-top:2px;
+}
+
+/*Footer Top*/
+.footer-top p{
+	font-size:13px;
+}
+.footer-top .h6{
+	margin:10px 0px!important;
+}
+.footer-description a{
+	padding:2px 5px;
+}
+.footer-description i{
+	color:#777777;
+}
+.quick-link a{
+	font-size:14px;
+	padding:8px 0px;
+	display: block;
+}
+.contact-us a{
+	font-size:13px;
+	display: block;
+	padding:8px 0px;
+}
+.shopping-online a{
+	font-size:13px;
+	display: block;
+	padding:8px 0px;
+}
+
+
+
+
+/*Register Section*/
+.main-register{
+	background: rgb(0,0,0, 0.4);
+	position:absolute;
+	width:100%;
+	top:0;
+	justify-content: center;
+	align-items: center;
+	z-index: 99;
+}
+.register{
+	top:50px;
+	height:860px;
+	width:400px;
+	background: #fff;
+	position: relative;
+}
+.register .agree span{
+	font-size:11px;
+}
+.register .show-password{
+    left: 300px;
+    color: black;
+	top: -30px;
+}
+.register .header-text span{
+	font-size:12px;
+}
+.register .btn{
+	font-size:12px;
+}
+#register-close {
+    float: right;
+    font-size: 45px;
+    position: relative;
+    top: -25px;
+    color: #000;
+    text-decoration: none;
+}
+.register-form .arrow{
+	top: -36px;
+    left: 1px;
+    padding: 5px 19px;
+    font-size: 23px;
+}
+
+/*Login Section*/
+.main-login{
+	background: rgb(0,0,0, 0.4);
+	position:absolute;
+	width:100%;
+	top:0;
+	justify-content: center;
+	align-items: center;
+	z-index: 99;
+}
+.login .header-text span{
+	font-size:11px;
+}
+.login {
+    height: 385px;
+    width: 355px;
+    top:50px;
+    background: #fff;
+    position: relative;
+}
+#login-close{
+	float: right;
+    font-size: 45px;
+    position: relative;
+    top: -25px;
+    color: #000;
+    text-decoration: none;
+}
+.login .show-password{
+	left: 237px;
+    color: black;
+    top: 32px;
+    z-index: 99;
+}
+.login .or-signin a{
+	font-size:11px;
+}

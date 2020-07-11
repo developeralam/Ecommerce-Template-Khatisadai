@@ -1,0 +1,375 @@
+/*Extra Small Device col-*/
+@media screen and (max-width: 374px){
+/*Typography*/
+.cart {
+    font-size: 7px;
+    padding: 3px 6px;
+}
+.off span {
+    font-size: 10px;
+}
+
+/*Header Top*/
+.header-top a{
+    font-size: 10px;
+    padding:5px;
+}
+.header-top .dropdown-menu{
+	left:-50px!important;
+}
+.header-top .dropdown-menu a{
+	padding:4px 2px!important;
+}
+/*Logo Search Section*/
+.logo-search-section .col-md-2{
+	position: relative;
+	top: -86px;
+	left: 125px;
+	text-align:right;
+}
+.logo-search-section{
+	margin-top:0px!important;
+}
+.logo-search-section .col-md-3 img{
+	width:80px!important;
+}
+.logo-search-section .col-md-2 img {
+    width:18px!important;
+}
+.logo-search-section .col-md-2 a {
+    margin-right: 0px;
+}
+.logo-search-section .col-md-2 a sup{
+    font-size:52%;
+    padding:1px;
+}
+.logo-search-section input {
+    padding: 10px 10px;
+}
+.logo-search-section button {
+    border-radius: 0px 35px 35px 0px;
+    padding: 6px 10px;
+}
+
+
+/*Category Menu Section*/
+.category-menu-section{
+	margin-top:0px;
+}
+.category-list .dropdown-menu{
+	display: none!important;
+}
+.category-menu-section .main-menu li a {
+    font-size: 12px;
+}
+
+/*Deal Of The Week*/
+.deal-of-the-week-section{
+	margin-top:15px!important;
+	margin-bottom: 7px!important;
+}
+.deal-of-the-week-section h2{
+	font-size:15px;
+}
+.ending-in strong{
+	font-size:14px;
+}
+.ending-in span{
+	font-size:10px;
+}
+.deal-of-the-week-section .item{
+	margin-top: 5px!important;
+}
+.deal-of-the-week-section .item .col-md-2{
+	margin-bottom: 7px!important;
+}
+
+/*Latest Best Sale Section*/
+.latest-best-sale-section .nav-link{
+	font-size: 10px;
+    padding: 3px 5px;
+}
+
+/*Recommendation Section*/
+.recommendation-section{
+	margin-top:20px!important;
+	margin-bottom:15px!important;
+}
+.recommendation-section .h3{
+	font-size:14px!important;
+}
+
+/*Featured Section*/
+.featured-section .col-md-3 h3{
+	text-align:center;
+	font-size:16px;
+}
+.featured-section .nav-link {
+    font-size: 9px;
+    padding: 5px 5px;
+}
+
+/*Footer Top*/
+.footer-top{
+	padding:6px 0!important;
+}
+.footer-top h3{
+	margin-bottom:12px!important;
+}
+
+/*Footer Bottom*/
+.footer-bottom p{
+	font-size:10px;
+}
+
+
+/*Login Part*/
+.login{
+	width:220px;
+	height: 335px;
+}
+.login .header-text span{
+	font-size:7px;
+}
+.or-signin a{
+	font-size:5px!important;
+}
+.or-signin p{
+	font-size:10px;
+}
+.login input{
+	font-size:9px;
+}
+.login .form-group{
+	padding-bottom: 0px!important;
+}
+.login button{
+	font-size:10px;
+}
+.forget-password{
+	font-size:10px;
+}
+.login .show-password {
+    left: 127px;
+    color: black;
+    top: 24px;
+    z-index: 9999999;
+    font-size: 10px;
+}
+
+/*Register Part*/
+.register{
+	width:235px;
+	height:800px;
+}
+.or-signup a{
+	font-size:5px!important;
+}
+.or-signup p{
+	font-size:9px;
+}
+.register input{
+	font-size:10px;
+}
+.register .form-group span{
+	font-size:7px;
+}
+.register .header-text span{
+	font-size:7px;
+}
+.register label{
+	font-size:9px;
+}
+.register form a{
+	font-size:9px!important;
+}
+.register-form .arrow {
+    top: -26px;
+    left: 1px;
+    padding: 4px 3px;
+    font-size: 15px;
+}
+.register .show-password{
+	left:140px;
+}
+
+}
+
+
+/* Small Device col-*/
+@media only screen and (min-width: 375px) and (max-width: 575px){
+/*Typography*/
+.cart{
+	font-size:12px;
+}
+.off span {
+    font-size: 10px;
+}
+
+/*Header Top*/
+.header-top a {
+    font-size: 10px;
+    padding:5px;
+}
+.header-top .dropdown-menu{
+	left:-50px!important;
+}
+.header-top .dropdown-menu a{
+	padding:4px 2px!important;
+}
+/*Logo Search Section*/
+.logo-search-section .col-md-2{
+	position: relative;
+	top: -86px;
+	left: 50%;
+	text-align: right;
+}
+.logo-search-section{
+	margin-top:0px!important;
+}
+.logo-search-section .col-md-3 img{
+	width:80px!important;
+}
+.logo-search-section .col-md-2 img {
+    width:22px!important;
+}
+.logo-search-section .col-md--2 a {
+    margin-right: 0px;
+}
+.logo-search-section .col-md-2 a sup{
+    font-size:8px;
+    padding:1px;
+}
+.logo-search-section input {
+    padding: 10px 10px;
+}
+.logo-search-section button {
+    border-radius: 0px 35px 35px 0px;
+    padding: 6px 10px;
+}
+
+
+/*Category Menu Section*/
+.category-menu-section{
+	margin-top:0px;
+}
+.category-list .dropdown-menu{
+	display: none!important;
+}
+.category-menu-section .main-menu li a {
+    font-size: 12px;
+}
+
+/*Deal Of The Week*/
+.deal-of-the-week-section{
+	margin-top:15px!important;
+	margin-bottom: 7px!important;
+}
+.deal-of-the-week-section h2{
+	font-size:15px;
+}
+.ending-in strong{
+	font-size:14px;
+}
+.ending-in span{
+	font-size:10px;
+}
+.deal-of-the-week-section .item{
+	margin-top: 5px!important;
+}
+.deal-of-the-week-section .item .col-md-2{
+	margin-bottom: 7px!important;
+}
+
+/*Latest Best Sale Section*/
+.latest-best-sale-section .nav-link {
+    font-size:13px;
+}
+
+/*Recommendation Section*/
+.recommendation-section{
+	margin-top:20px!important;
+	margin-bottom:15px!important;
+}
+.recommendation-section .h3{
+	font-size:14px!important;
+}
+
+/*Featured Section*/
+.featured-section .col-md-3 h3{
+	text-align:center;
+}
+
+/*Login Part*/
+.login{
+	width:315px;
+	height: 381px;
+}
+.login .header-text span{
+	font-size:9px;
+}
+.or-signin a{
+	font-size:5px!important;
+}
+
+.login .show-password{
+	left:216px;
+}
+
+/*Register Part*/
+.register{
+	width:235px;
+	height:800px;
+}
+.or-signup a{
+	font-size:5px!important;
+}
+.or-signup p{
+	font-size:10px;
+}
+.register input{
+	font-size:10px;
+}
+.register .form-group span{
+	font-size:7px;
+}
+.register .header-text span{
+	font-size:7px;
+}
+.register label{
+	font-size:9px;
+}
+.register form a{
+	font-size:9px!important;
+}
+.register-form .arrow {
+    top: -26px;
+    left: 1px;
+    padding: 4px 3px;
+    font-size: 15px;
+}
+.register .show-password{
+	left:140px;
+}
+.register .or-signup a{
+	font-size:9px;
+}
+
+}
+
+/*Small Device col-sm*/
+@media only screen and (min-width: 576px) { 
+
+}
+/*Medium Device col-md*/
+@media only screen and (min-width: 768px) { 
+
+}
+/*Large Device col-lg*/
+@media only screen and (min-width: 992px) { 
+
+}
+/*Extra large Device col-xl*/
+@media only screen and (min-width: 1200px) { 
+
+}
